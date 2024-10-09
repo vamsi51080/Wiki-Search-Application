@@ -1,3 +1,4 @@
+
 # Wiki Search Application
 
 This Wiki Search Application allows users to quickly search and retrieve articles from Wikipedia using an interactive and intuitive interface. The application is built with HTML, CSS, JavaScript, and Bootstrap for a responsive and user-friendly experience.
@@ -47,3 +48,7 @@ This Wiki Search Application allows users to quickly search and retrieve article
 - Add pagination to handle large search result sets.
 - Implement advanced search filters (e.g., sort by relevance or date).
 - Add auto-suggestions to enhance search functionality.
+
+## Live Demo
+
+The application is live and can be accessed at [Wiki Search App](https://wikisearch21.ccbp.tech).
